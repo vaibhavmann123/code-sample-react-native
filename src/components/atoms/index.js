@@ -1,0 +1,13 @@
+export {default as HeaderComponent} from './header';
+export {default as Icon} from './icon';
+export {default as FooterComponent} from './footer';
+export {default as SubHeader} from './subHeader/index';
+export {default as OrderHeader} from './orderHeader/index';
+export {default as StatusHeader} from './statusHeader/index';
+export {default as KitchenHeader} from './kitchen/kitchenHeader';
+export {default as KitchenFooter} from './kitchen/kitchenFooter';
+export {default as KitchenComponent} from './kitchen/KitchenComponent';
+export {default as OrderDetail} from './kitchen/kitchenSingleOrder';
+export {default as DeliveryHeader} from './Delivery/DeliveryHeader';
+export {default as DeliveryFooter} from './Delivery/DeliveryFooter';
+export {default as DeliveryPickup} from './Delivery/DeliveryPickUp';
